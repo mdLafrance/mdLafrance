@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Max Lafrance</h1>
+<h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A software engineer from Canada 🍁</h3>
 
   
