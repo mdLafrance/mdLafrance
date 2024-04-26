@@ -4,7 +4,7 @@
   
 - 🎥 I've been working on **pipeline** teams in the VFX industry
 - 🎨 I have a background in visual art, and graphics programming
-- 🔭 I’m currently working on **a portfolio website** using react and next.js
+- 🔭 Check out my portfolio website [here](https://mlafrance.dev/)
 
 
 
