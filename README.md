@@ -6,7 +6,12 @@
 - 🎨 I have a background in visual art, and graphics programming
 - 🔭 Check out my portfolio website [here](https://mlafrance.dev/)
 
+<br />
 
+### Have you ever forgotten what `~2.15.4` means 🤔
+Me too... check out **[ExplainVersion.com](http://explainversion.com)** - a new tool to sanity check your semver versioning schemes.
+
+<br />
 
 ### 🌐 Get in touch!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/max-lafrance) 
