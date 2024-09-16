@@ -8,8 +8,11 @@
 
 <br />
 
-### Have you ever forgotten what `~2.15.4` means 🤔
-Me too... check out **[ExplainVersion.com](http://explainversion.com)** - a new tool to sanity check your semver versioning schemes.
+## [Explainversion](http://explainversion.com) 
+Have you ever forgotten what versions `~1.23.0` resolves to...? 🤔 Me too! check out **[ExplainVersion.com](http://explainversion.com)** - a little website I made to sanity check your semver versioning schemes.
+
+## [envalidate](https://github.com/mdlafrance/envalidate)
+A pydantic based library for validating and type checking your environment variables in your python projects 🐍
 
 <br />
 
